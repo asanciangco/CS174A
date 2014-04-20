@@ -1,0 +1,114 @@
+TAssignment3
+v6
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/Assignment3.build/Debug/Assignment3.build/Objects-normal/x86_64/template-rt.o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/template-rt.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Products/Debug/Assignment3 normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005282816C00000000000000AA
+t1384284524
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000526A3E25000000000000044C
+t1382694437
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000526A3E2500000000000001DB
+t1382694437
+s475
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/Build/Intermediates/Assignment3.build/Debug/Assignment3.build/Objects-normal/x86_64/Assignment3.LinkFileList
+c00000000529D113000000000000000AA
+t1386025264
+s170
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/Build/Intermediates/Assignment3.build/Debug/Assignment3.build/Objects-normal/x86_64/template-rt.o
+t1386025267
+s362956
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/Build/Products/Debug/Assignment3
+t2
+s0
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/template-rt.cpp
+c000000004F4FFA9A0000000000001141
+t1330641562
+s4417
+
+CBuild AST from /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/template-rt.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies4faf74b0484db841^c98fa4b0484db841^---0#1#1#--18"Check dependencies36"88A20EE7-B86C-40FF-83BA-9C17DE6B04E3-
+
+CCompileC Build/Intermediates/Assignment3.build/Debug/Assignment3.build/Objects-normal/x86_64/template-rt.o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/template-rt.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s407718064.644072
+e407718067.196795
+r1
+xCompileC
+xBuild/Intermediates/Assignment3.build/Debug/Assignment3.build/Objects-normal/x86_64/template-rt.o
+x/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/template-rt.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/template-rt.cpp
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/matm.h
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/vecm.h
+o/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/template-rt.cpp:178:32: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]
+o    savePPM(g_width, g_height, "output.ppm", buf);
+o                               ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/template-rt.cpp184"CompileC Build/Intermediates/Assignment3.build/Debug/Assignment3.build/Objects-normal/x86_64/template-rt.o template-rt.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerbb48a5b0484db841^2655abb3484db841^-299"/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/template-rt.cpp:178:32: warning: conversion from string literal to 'char *' is deprecated [-Wdeprecated-writable-strings]    savePPM(g_width, g_height, "output.ppm", buf);                               ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@56"Conversion from string literal to 'char *' is deprecated-407718067#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@100"file:///Users/Alex/Documents/School/2013%20Fall/CS%20174A/Assignment%203/Assignment3/template-rt.cpp0000000000000000^177#31#177#31#4062#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@100"file:///Users/Alex/Documents/School/2013%20Fall/CS%20174A/Assignment%203/Assignment3/template-rt.cpp0000000000000000^3397"CompileC Build/Intermediates/Assignment3.build/Debug/Assignment3.build/Objects-normal/x86_64/template-rt.o template-rt.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Intermediates/Assignment3.build/Debug/Assignment3.build/Assignment3-generated-files.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Intermediates/Assignment3.build/Debug/Assignment3.build/Assignment3-own-target-headers.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Intermediates/Assignment3.build/Debug/Assignment3.build/Assignment3-all-target-headers.hmap -iquote /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Intermediates/Assignment3.build/Debug/Assignment3.build/Assignment3-project-headers.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Intermediates/Assignment3.build/Debug/Assignment3.build/DerivedSources/x86_64 -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Intermediates/Assignment3.build/Debug/Assignment3.build/DerivedSources -F/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Products/Debug -MMD -MT dependencies -MF /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Intermediates/Assignment3.build/Debug/Assignment3.build/Objects-normal/x86_64/template-rt.d --serialize-diagnostics /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Intermediates/Assignment3.build/Debug/Assignment3.build/Objects-normal/x86_64/template-rt.dia -c /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/template-rt.cpp -o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Intermediates/Assignment3.build/Debug/Assignment3.build/Objects-normal/x86_64/template-rt.o36"E7856146-DC09-433D-BE9E-56E0EB9BAE3D-
+b2419889A-DD4E-4F49-AE54-2B120432AA60
+
+CLd /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Products/Debug/Assignment3 normal x86_64
+s407718067.197752
+e407718068.036052
+r1
+xLd
+x/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/Build/Products/Debug/Assignment3
+xnormal
+xx86_64
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/Build/Intermediates/Assignment3.build/Debug/Assignment3.build/Objects-normal/x86_64/Assignment3.LinkFileList
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/Build/Intermediates/Assignment3.build/Debug/Assignment3.build/Objects-normal/x86_64/template-rt.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Link /Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/Build/Products/Debug/Assignment349"Ld Build/Products/Debug/Assignment3 normal x86_6490c132b3484db841^7c0f9bb4484db841^---0#0#1#--1161"Ld Build/Products/Debug/Assignment3 normal x86_64    cd "/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3"    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Products/Debug -F/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Products/Debug -filelist /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Intermediates/Assignment3.build/Debug/Assignment3.build/Objects-normal/x86_64/Assignment3.LinkFileList -mmacosx-version-min=10.9 -stdlib=libc++ -Xlinker -dependency_info -Xlinker /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Intermediates/Assignment3.build/Debug/Assignment3.build/Objects-normal/x86_64/Assignment3_dependency_info.dat -o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Products/Debug/Assignment336"835DA9AC-8747-43FB-B73F-EC43289DB882-
+b2419889A-DD4E-4F49-AE54-2B120432AA60
+

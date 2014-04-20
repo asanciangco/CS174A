@@ -1,0 +1,116 @@
+Traytrace
+v6
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/raytrace.build/Debug/raytrace.build/Objects-normal/x86_64/raytrace.o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/raytrace.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Products/Debug/raytrace normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005282816C00000000000000AA
+t1384284524
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000526A3E25000000000000044C
+t1382694437
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000526A3E2500000000000001DB
+t1382694437
+s475
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/Build/Intermediates/raytrace.build/Debug/raytrace.build/Objects-normal/x86_64/raytrace.LinkFileList
+c0000000052A2B2E200000000000000A1
+t1386394338
+s161
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/Build/Intermediates/raytrace.build/Debug/raytrace.build/Objects-normal/x86_64/raytrace.o
+t1386394341
+s572440
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/Build/Products/Debug/raytrace
+t2
+s0
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/raytrace.cpp
+c0000000052A248040000000000003CB1
+t1386366980
+s15537
+
+CBuild AST from /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/raytrace.cpp
+r0
+
+CBuild AST from /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/template-rt.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6ac2c262ea52b841^0a12d362ea52b841^---0#1#1#--18"Check dependencies36"88B52C9A-12F1-49C7-8FA0-F05D8EE9B205-
+
+CCompileC Build/Intermediates/raytrace.build/Debug/raytrace.build/Objects-normal/x86_64/raytrace.o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/raytrace.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s408087138.860811
+e408087141.219335
+r1
+xCompileC
+xBuild/Intermediates/raytrace.build/Debug/raytrace.build/Objects-normal/x86_64/raytrace.o
+x/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/raytrace.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/raytrace.cpp
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/matm.h
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/vecm.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/raytrace.cpp172"CompileC Build/Intermediates/raytrace.build/Debug/raytrace.build/Objects-normal/x86_64/raytrace.o raytrace.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerf583e262ea52b841^29253865ea52b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/Alex/Documents/School/2013%20Fall/CS%20174A/Assignment%203/Assignment3/raytrace.cpp0000000000000000^3307"CompileC Build/Intermediates/raytrace.build/Debug/raytrace.build/Objects-normal/x86_64/raytrace.o raytrace.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Intermediates/raytrace.build/Debug/raytrace.build/raytrace-generated-files.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Intermediates/raytrace.build/Debug/raytrace.build/raytrace-own-target-headers.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Intermediates/raytrace.build/Debug/raytrace.build/raytrace-all-target-headers.hmap -iquote /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Intermediates/raytrace.build/Debug/raytrace.build/raytrace-project-headers.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Intermediates/raytrace.build/Debug/raytrace.build/DerivedSources/x86_64 -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Intermediates/raytrace.build/Debug/raytrace.build/DerivedSources -F/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Products/Debug -MMD -MT dependencies -MF /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Intermediates/raytrace.build/Debug/raytrace.build/Objects-normal/x86_64/raytrace.d --serialize-diagnostics /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Intermediates/raytrace.build/Debug/raytrace.build/Objects-normal/x86_64/raytrace.dia -c /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/raytrace.cpp -o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Intermediates/raytrace.build/Debug/raytrace.build/Objects-normal/x86_64/raytrace.o36"6F32E79E-ECF5-4CF0-94A9-63202783F495-
+b8C75C474-50DC-47A4-8563-A89EE67DA578
+
+CCompileC Build/Intermediates/raytrace.build/Debug/raytrace.build/Objects-normal/x86_64/template-rt.o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/template-rt.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CLd /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Products/Debug/raytrace normal x86_64
+s408087141.220490
+e408087142.158320
+r1
+xLd
+x/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/Build/Products/Debug/raytrace
+xnormal
+xx86_64
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/Build/Intermediates/raytrace.build/Debug/raytrace.build/Objects-normal/x86_64/raytrace.LinkFileList
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/Build/Intermediates/raytrace.build/Debug/raytrace.build/Objects-normal/x86_64/raytrace.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Link /Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3/Build/Products/Debug/raytrace46"Ld Build/Products/Debug/raytrace normal x86_64c6883865ea52b841^3b892866ea52b841^---0#0#1#--1137"Ld Build/Products/Debug/raytrace normal x86_64    cd "/Users/Alex/Documents/School/2013 Fall/CS 174A/Assignment 3/Assignment3"    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Products/Debug -F/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Products/Debug -filelist /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Intermediates/raytrace.build/Debug/raytrace.build/Objects-normal/x86_64/raytrace.LinkFileList -mmacosx-version-min=10.9 -stdlib=libc++ -Xlinker -dependency_info -Xlinker /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Intermediates/raytrace.build/Debug/raytrace.build/Objects-normal/x86_64/raytrace_dependency_info.dat -o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Assignment\ 3/Assignment3/Build/Products/Debug/raytrace36"2EA248EC-27CB-4D0C-A8BB-99789E69A19F-
+b8C75C474-50DC-47A4-8563-A89EE67DA578
+

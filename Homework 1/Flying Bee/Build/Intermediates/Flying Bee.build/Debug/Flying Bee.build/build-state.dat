@@ -1,0 +1,888 @@
+TFlying Bee
+v6
+r1
+cCheck dependencies
+cCompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/InitShader.o /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/InitShader.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/FrameSaver.o /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/FrameSaver.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/BallMath.o /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/BallMath.cxx normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/anim.o /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/anim.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/BallAux.o /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/BallAux.cxx normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/tga.o /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/tga.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Ball.o /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/Ball.cxx normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Timer.o /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/Timer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Shapes.o /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/Shapes.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug/Flying\ Bee normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005282816C00000000000000AA
+t1384284524
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000526A3E25000000000000044C
+t1382694437
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000526A3E2500000000000001DB
+t1382694437
+s475
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/GLUT
+c00000000526A3E2700000000000135D4
+t1382694439
+s79316
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000526A3E29000000000000BB7C
+t1382694441
+s47996
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+c00000000526A3E2900000000000211A0
+t1382694441
+s135584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+c00000000526A3E290000000000005F00
+t1382694441
+s24320
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+c00000000526A3E2E000000000000681C
+t1382694446
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+c00000000526A3E2E000000000006E8B0
+t1382694446
+s452784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+c00000000526A3E2E0000000000004734
+t1382694446
+s18228
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+c00000000526A3E2E000000000000FC6C
+t1382694446
+s64620
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+c00000000526A3E2E000000000000F6A0
+t1382694446
+s63136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+c00000000526A3E2E0000000000006254
+t1382694446
+s25172
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+c00000000526A3E2E000000000000E0F8
+t1382694446
+s57592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+c00000000526A3E2E000000000000D6DC
+t1382694446
+s55004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+c00000000526A3E2E0000000000006308
+t1382694446
+s25352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+c00000000526A3E2E0000000000004050
+t1382694446
+s16464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+c00000000526A3E2E0000000000008570
+t1382694446
+s34160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+c00000000526A3E2E0000000000005EA0
+t1382694446
+s24224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+c00000000526A3E2E0000000000005FAC
+t1382694446
+s24492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+c00000000526A3E2E0000000000004440
+t1382694446
+s17472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+c00000000526A3E2E000000000000AA28
+t1382694446
+s43560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000526A3E2E0000000000003E2C
+t1382694446
+s15916
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+c00000000526A3E2E0000000000030A24
+t1382694446
+s199204
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+c00000000526A3E2E0000000000005E54
+t1382694446
+s24148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000526A3E2E0000000000006A90
+t1382694446
+s27280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+c00000000526A3E2E00000000000178AC
+t1382694446
+s96428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000526A3E2E000000000001ADC8
+t1382694446
+s110024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+c00000000526A3E2E000000000001028C
+t1382694446
+s66188
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+c00000000526A3E2E0000000000008800
+t1382694446
+s34816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+c00000000526A3E2E0000000000011090
+t1382694446
+s69776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000526A3E2E000000000000882C
+t1382694446
+s34860
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+c00000000526A3E2E00000000000067AC
+t1382694446
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+c00000000526A3E2E0000000000008DEC
+t1382694446
+s36332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000526A3E2E0000000000004C08
+t1382694446
+s19464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+c00000000526A3E2E00000000000023C0
+t1382694446
+s9152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+c00000000526A3E2E000000000000439C
+t1382694446
+s17308
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+c00000000526A3E2E0000000000006768
+t1382694446
+s26472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+c00000000526A3E2E00000000000172F4
+t1382694446
+s94964
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+c00000000526A3E550000000000001750
+t1382694485
+s5968
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/Ball.o
+t1383169096
+s19604
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/BallAux.o
+t1383169096
+s13220
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/BallMath.o
+t1383169096
+s8028
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/Flying Bee.LinkFileList
+c0000000052717C4600000000000005A3
+t1383169094
+s1443
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/FrameSaver.o
+t1383169096
+s8668
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/InitShader.o
+t1383169097
+s75244
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/Shapes.o
+t1383169097
+s43084
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/Timer.o
+t1383169096
+s4664
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/anim.o
+t1383326100
+s62288
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/tga.o
+t1383169096
+s5736
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Products/Debug/Flying Bee
+t1383325701
+s94228
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/Angel.h
+c00000000524E60640000000000000876
+t1380868196
+s2166
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/CheckError.h
+c00000000524E6064000000000000053C
+t1380868196
+s1340
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/mat.h
+c00000000526B111E0000000000004855
+t1382748446
+s18517
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/vec.h
+c00000000524E606400000000000028D0
+t1380868196
+s10448
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Ball.cxx
+c00000000525EEC520000000000001FB0
+t1381952594
+s8112
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Ball.h
+c00000000524E60640000000000000575
+t1380868196
+s1397
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/BallAux.cxx
+c00000000524E60640000000000001171
+t1380868196
+s4465
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/BallAux.h
+c00000000524E606400000000000002CC
+t1380868196
+s716
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/BallMath.cxx
+c00000000524E60640000000000000A19
+t1380868196
+s2585
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/BallMath.h
+c00000000524E606400000000000001AD
+t1380868196
+s429
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/FrameSaver.cpp
+c00000000525EEC8800000000000006C5
+t1381952648
+s1733
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/FrameSaver.h
+c00000000524E60640000000000000132
+t1380868196
+s306
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/InitShader.cpp
+c0000000052632CA80000000000000BBF
+t1382231208
+s3007
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Shapes.cpp
+c00000000524E60640000000000002A06
+t1380868196
+s10758
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Shapes.h
+c00000000524E606400000000000001DF
+t1380868196
+s479
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Timer.cpp
+c00000000525EEC720000000000000464
+t1381952626
+s1124
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Timer.h
+c00000000525EEC6400000000000002F2
+t1381952612
+s754
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/anim.cpp
+c000000005273E194000000000000537C
+t1383326100
+s21372
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/tga.cpp
+c00000000524E60640000000000000401
+t1380868196
+s1025
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/tga.h
+c00000000524E60640000000000000184
+t1380868196
+s388
+
+N/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/timer.h
+c00000000525EEC6400000000000002F2
+t1381952612
+s754
+
+N/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/Ball.o
+t1383169096
+s19604
+
+N/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/BallAux.o
+t1383169096
+s13220
+
+N/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/BallMath.o
+t1383169096
+s8028
+
+N/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/Flying Bee.LinkFileList
+c0000000052EA138E00000000000005EB
+t1391072142
+s1515
+
+N/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/FrameSaver.o
+t1383169096
+s8668
+
+N/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/InitShader.o
+t1383169097
+s75244
+
+N/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/Shapes.o
+t1391072146
+s43116
+
+N/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/Timer.o
+t1383169096
+s4664
+
+N/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/anim.o
+t1391072146
+s62328
+
+N/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/tga.o
+t1383169096
+s5736
+
+N/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Products/Debug/Flying Bee
+t1383326100
+s94228
+
+N/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Ball.cxx
+c00000000525EEC520000000000001FB0
+t1381952594
+s8112
+
+N/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/BallAux.cxx
+c00000000524E60640000000000001171
+t1380868196
+s4465
+
+N/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/BallMath.cxx
+c00000000524E60640000000000000A19
+t1380868196
+s2585
+
+N/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/FrameSaver.cpp
+c00000000525EEC8800000000000006C5
+t1381952648
+s1733
+
+N/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/InitShader.cpp
+c0000000052632CA80000000000000BBF
+t1382231208
+s3007
+
+N/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Shapes.cpp
+c00000000528F22890000000000002A04
+t1385112201
+s10756
+
+N/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Timer.cpp
+c00000000525EEC720000000000000464
+t1381952626
+s1124
+
+N/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/anim.cpp
+c000000005273E2860000000000005372
+t1383326342
+s21362
+
+N/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/tga.cpp
+c00000000524E60640000000000000401
+t1380868196
+s1025
+
+CBuild AST from /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/Ball.cxx
+r0
+
+CBuild AST from /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/BallAux.cxx
+r0
+
+CBuild AST from /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/BallMath.cxx
+r0
+
+CBuild AST from /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/FrameSaver.cpp
+r0
+
+CBuild AST from /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/InitShader.cpp
+r0
+
+CBuild AST from /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/Shapes.cpp
+r0
+
+CBuild AST from /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/Timer.cpp
+r0
+
+CBuild AST from /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/anim.cpp
+r0
+
+CBuild AST from /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/tga.cpp
+r0
+
+CBuild AST from /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/Ball.cxx
+r0
+
+CBuild AST from /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/BallAux.cxx
+r0
+
+CBuild AST from /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/BallMath.cxx
+r0
+
+CBuild AST from /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/FrameSaver.cpp
+r0
+
+CBuild AST from /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/InitShader.cpp
+r0
+
+CBuild AST from /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/Shapes.cpp
+r0
+
+CBuild AST from /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/Timer.cpp
+r0
+
+CBuild AST from /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/anim.cpp
+r0
+
+CBuild AST from /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/tga.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies43c9080e4b9ab841^d8f16b0e4b9ab841^---0#1#1#--18"Check dependencies36"3AB028BB-8250-476A-B738-AECC1CEF6D09-
+
+CCompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Ball.o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/Ball.cxx normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s404861896.369786
+e404861896.512516
+r1
+xCompileC
+xBuild/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/Ball.o
+x/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Ball.cxx
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Ball.cxx
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Ball.h
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/BallAux.h
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/BallMath.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Ball.cxx182"CompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Ball.o Flying\ Bee/Ball.cxx normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerf3c95ec8b321b841^093583c8b321b841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/Alex/Documents/School/2013%20Fall/CS%20174A/Homework%201/Flying%20Bee/Flying%20Bee/Ball.cxx0000000000000000^3352"CompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Ball.o Flying\ Bee/Ball.cxx normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-generated-files.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-own-target-headers.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-all-target-headers.hmap -iquote /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-project-headers.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/DerivedSources/x86_64 -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/DerivedSources -F/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug -MMD -MT dependencies -MF /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Ball.d --serialize-diagnostics /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Ball.dia -c /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/Ball.cxx -o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Ball.o36"9CDBF035-4BB7-4829-9139-5A4BB1054820-
+b86A96E28-5A73-4FE9-BE6C-FA57D44614E3
+
+CCompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Ball.o /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/Ball.cxx normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/BallAux.o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/BallAux.cxx normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s404861896.073124
+e404861896.369250
+r1
+xCompileC
+xBuild/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/BallAux.o
+x/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/BallAux.cxx
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/BallAux.cxx
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/BallAux.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/BallAux.cxx188"CompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/BallAux.o Flying\ Bee/BallAux.cxx normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerc4d012c8b321b841^4b935ec8b321b841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/Alex/Documents/School/2013%20Fall/CS%20174A/Homework%201/Flying%20Bee/Flying%20Bee/BallAux.cxx0000000000000000^3370"CompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/BallAux.o Flying\ Bee/BallAux.cxx normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-generated-files.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-own-target-headers.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-all-target-headers.hmap -iquote /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-project-headers.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/DerivedSources/x86_64 -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/DerivedSources -F/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug -MMD -MT dependencies -MF /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/BallAux.d --serialize-diagnostics /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/BallAux.dia -c /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/BallAux.cxx -o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/BallAux.o36"20F5C9FA-9C94-4B5A-8B35-DEBB971B70A4-
+b86A96E28-5A73-4FE9-BE6C-FA57D44614E3
+
+CCompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/BallAux.o /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/BallAux.cxx normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/BallMath.o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/BallMath.cxx normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s404861894.478657
+e404861896.216162
+r1
+xCompileC
+xBuild/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/BallMath.o
+x/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/BallMath.cxx
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/BallMath.cxx
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/BallMath.h
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/BallAux.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/BallMath.cxx190"CompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/BallMath.o Flying\ Bee/BallMath.cxx normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerc9057bc6b321b841^248037c8b321b841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/Alex/Documents/School/2013%20Fall/CS%20174A/Homework%201/Flying%20Bee/Flying%20Bee/BallMath.cxx0000000000000000^3376"CompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/BallMath.o Flying\ Bee/BallMath.cxx normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-generated-files.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-own-target-headers.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-all-target-headers.hmap -iquote /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-project-headers.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/DerivedSources/x86_64 -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/DerivedSources -F/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug -MMD -MT dependencies -MF /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/BallMath.d --serialize-diagnostics /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/BallMath.dia -c /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/BallMath.cxx -o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/BallMath.o36"1CAE43F3-4908-469D-B836-8C6C650164B1-
+b86A96E28-5A73-4FE9-BE6C-FA57D44614E3
+
+CCompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/BallMath.o /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/BallMath.cxx normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/FrameSaver.o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/FrameSaver.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s404861894.478021
+e404861896.072627
+r1
+xCompileC
+xBuild/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/FrameSaver.o
+x/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/FrameSaver.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/FrameSaver.cpp
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/FrameSaver.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/FrameSaver.cpp194"CompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/FrameSaver.o Flying\ Bee/FrameSaver.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler3fa97ac6b321b841^859512c8b321b841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/Alex/Documents/School/2013%20Fall/CS%20174A/Homework%201/Flying%20Bee/Flying%20Bee/FrameSaver.cpp0000000000000000^3388"CompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/FrameSaver.o Flying\ Bee/FrameSaver.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-generated-files.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-own-target-headers.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-all-target-headers.hmap -iquote /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-project-headers.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/DerivedSources/x86_64 -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/DerivedSources -F/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug -MMD -MT dependencies -MF /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/FrameSaver.d --serialize-diagnostics /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/FrameSaver.dia -c /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/FrameSaver.cpp -o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/FrameSaver.o36"0BA4D791-97DC-4F26-B816-E00D323C508C-
+b86A96E28-5A73-4FE9-BE6C-FA57D44614E3
+
+CCompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/FrameSaver.o /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/FrameSaver.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/InitShader.o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/InitShader.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s404861894.476814
+e404861897.505355
+r1
+xCompileC
+xBuild/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/InitShader.o
+x/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/InitShader.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/InitShader.cpp
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/Angel.h
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/vec.h
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/mat.h
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/CheckError.h
+oIn file included from /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/InitShader.cpp:2:
+oIn file included from /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/Angel.h:69:
+o/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/CheckError.h:42:1: warning: unused function '_CheckError' [-Wunused-function]
+o_CheckError( const char* file, int line )
+o^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/InitShader.cpp194"CompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/InitShader.o Flying\ Bee/InitShader.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler1b7f7ac6b321b841^295e81c9b321b841^-469"In file included from /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/InitShader.cpp:2:In file included from /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/Angel.h:69:/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/CheckError.h:42:1: warning: unused function '_CheckError' [-Wunused-function]_CheckError( const char* file, int line )^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@29"Unused function '_CheckError'-404861897#18446744073709551615#0#2(2@119"In file included from /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/InitShader.cpp:2:-404861897#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@111"file:///Users/Alex/Documents/School/2013%20Fall/CS%20174A/Homework%201/Flying%20Bee/Flying%20Bee/InitShader.cpp0000000000000000^1#9#1#9#10#0#21"Apple LLVM 5.0 Notice--2@119"In file included from /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/Angel.h:69:-404861897#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@110"file:///Users/Alex/Documents/School/2013%20Fall/CS%20174A/Homework%201/Flying%20Bee/Flying%20Bee/Angel/Angel.h0000000000000000^68#9#68#9#1970#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@115"file:///Users/Alex/Documents/School/2013%20Fall/CS%20174A/Homework%201/Flying%20Bee/Flying%20Bee/Angel/CheckError.h0000000000000000^41#0#41#0#880#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@111"file:///Users/Alex/Documents/School/2013%20Fall/CS%20174A/Homework%201/Flying%20Bee/Flying%20Bee/InitShader.cpp0000000000000000^3388"CompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/InitShader.o Flying\ Bee/InitShader.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-generated-files.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-own-target-headers.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-all-target-headers.hmap -iquote /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-project-headers.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/DerivedSources/x86_64 -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/DerivedSources -F/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug -MMD -MT dependencies -MF /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/InitShader.d --serialize-diagnostics /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/InitShader.dia -c /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/InitShader.cpp -o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/InitShader.o36"E30F3B7C-430E-4BB7-BB39-BD9FC26B594A-
+b86A96E28-5A73-4FE9-BE6C-FA57D44614E3
+
+CCompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/InitShader.o /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/InitShader.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Shapes.o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/Shapes.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s404861896.438052
+e404861897.433335
+r1
+xCompileC
+xBuild/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/Shapes.o
+x/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Shapes.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Shapes.cpp
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/Angel.h
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/vec.h
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/mat.h
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/CheckError.h
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Shapes.h
+oIn file included from /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Shapes.cpp:1:
+oIn file included from /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/Angel.h:69:
+o/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/CheckError.h:42:1: warning: unused function '_CheckError' [-Wunused-function]
+o_CheckError( const char* file, int line )
+o^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Shapes.cpp186"CompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Shapes.o Flying\ Bee/Shapes.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler0c3f70c8b321b841^0fee6ec9b321b841^-465"In file included from /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Shapes.cpp:1:In file included from /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/Angel.h:69:/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/CheckError.h:42:1: warning: unused function '_CheckError' [-Wunused-function]_CheckError( const char* file, int line )^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@29"Unused function '_CheckError'-404861897#18446744073709551615#0#2(2@115"In file included from /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Shapes.cpp:1:-404861897#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@107"file:///Users/Alex/Documents/School/2013%20Fall/CS%20174A/Homework%201/Flying%20Bee/Flying%20Bee/Shapes.cpp0000000000000000^0#9#0#9#9#0#21"Apple LLVM 5.0 Notice--2@119"In file included from /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/Angel.h:69:-404861897#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@110"file:///Users/Alex/Documents/School/2013%20Fall/CS%20174A/Homework%201/Flying%20Bee/Flying%20Bee/Angel/Angel.h0000000000000000^68#9#68#9#1970#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@115"file:///Users/Alex/Documents/School/2013%20Fall/CS%20174A/Homework%201/Flying%20Bee/Flying%20Bee/Angel/CheckError.h0000000000000000^41#0#41#0#880#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@107"file:///Users/Alex/Documents/School/2013%20Fall/CS%20174A/Homework%201/Flying%20Bee/Flying%20Bee/Shapes.cpp0000000000000000^3364"CompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Shapes.o Flying\ Bee/Shapes.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-generated-files.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-own-target-headers.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-all-target-headers.hmap -iquote /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-project-headers.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/DerivedSources/x86_64 -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/DerivedSources -F/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug -MMD -MT dependencies -MF /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Shapes.d --serialize-diagnostics /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Shapes.dia -c /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/Shapes.cpp -o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Shapes.o36"9AF0934A-5579-4747-8962-91CFAA326800-
+b86A96E28-5A73-4FE9-BE6C-FA57D44614E3
+
+CCompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Shapes.o /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/Shapes.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412764942.914039
+e412764946.364917
+r1
+xCompileC
+xBuild/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/Shapes.o
+x/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Shapes.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Shapes.cpp
+d/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/Angel.h
+d/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/vec.h
+d/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/mat.h
+d/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/CheckError.h
+d/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Shapes.h
+oIn file included from /Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Shapes.cpp:1:
+oIn file included from /Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/Angel.h:71:
+o/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/CheckError.h:42:1: warning: unused function '_CheckError' [-Wunused-function]
+o_CheckError( const char* file, int line )
+o^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Shapes.cpp186"CompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Shapes.o Flying\ Bee/Shapes.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilere701f00e4b9ab841^257a5d124b9ab841^-489"In file included from /Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Shapes.cpp:1:In file included from /Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/Angel.h:71:/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/CheckError.h:42:1: warning: unused function '_CheckError' [-Wunused-function]_CheckError( const char* file, int line )^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@29"Unused function '_CheckError'-412764946#18446744073709551615#0#2(2@123"In file included from /Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Shapes.cpp:1:-412764946#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@115"file:///Users/Alex/Documents/School/Archive/2013%20Fall/CS%20174A/Homework%201/Flying%20Bee/Flying%20Bee/Shapes.cpp0000000000000000^0#9#0#9#9#0#21"Apple LLVM 5.0 Notice--2@127"In file included from /Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/Angel.h:71:-412764946#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@118"file:///Users/Alex/Documents/School/Archive/2013%20Fall/CS%20174A/Homework%201/Flying%20Bee/Flying%20Bee/Angel/Angel.h0000000000000000^70#9#70#9#2075#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@123"file:///Users/Alex/Documents/School/Archive/2013%20Fall/CS%20174A/Homework%201/Flying%20Bee/Flying%20Bee/Angel/CheckError.h0000000000000000^41#0#41#0#880#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@115"file:///Users/Alex/Documents/School/Archive/2013%20Fall/CS%20174A/Homework%201/Flying%20Bee/Flying%20Bee/Shapes.cpp0000000000000000^3468"CompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Shapes.o Flying\ Bee/Shapes.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-generated-files.hmap -I/Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-own-target-headers.hmap -I/Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-all-target-headers.hmap -iquote /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-project-headers.hmap -I/Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/DerivedSources/x86_64 -I/Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/DerivedSources -F/Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug -MMD -MT dependencies -MF /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Shapes.d --serialize-diagnostics /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Shapes.dia -c /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/Shapes.cpp -o /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Shapes.o36"8C405587-082B-4A17-915C-CA81AFE7BB35-
+b24F3C2BA-736D-4FA3-BDEA-EB410FAE91F2
+
+CCompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Timer.o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/Timer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s404861896.371019
+e404861896.437664
+r1
+xCompileC
+xBuild/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/Timer.o
+x/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Timer.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Timer.cpp
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/timer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Timer.cpp184"CompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Timer.o Flying\ Bee/Timer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler5c1e5fc8b321b841^af0a70c8b321b841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/Alex/Documents/School/2013%20Fall/CS%20174A/Homework%201/Flying%20Bee/Flying%20Bee/Timer.cpp0000000000000000^3358"CompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Timer.o Flying\ Bee/Timer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-generated-files.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-own-target-headers.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-all-target-headers.hmap -iquote /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-project-headers.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/DerivedSources/x86_64 -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/DerivedSources -F/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug -MMD -MT dependencies -MF /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Timer.d --serialize-diagnostics /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Timer.dia -c /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/Timer.cpp -o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Timer.o36"566B048E-FF8E-4269-9D98-E99A6CE40391-
+b86A96E28-5A73-4FE9-BE6C-FA57D44614E3
+
+CCompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Timer.o /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/Timer.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/anim.o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/anim.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s405018900.083684
+e405018900.835165
+r1
+xCompileC
+xBuild/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/anim.o
+x/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/anim.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/anim.cpp
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Ball.h
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/BallAux.h
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/FrameSaver.h
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Timer.h
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Shapes.h
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/tga.h
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/Angel.h
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/vec.h
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/mat.h
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/CheckError.h
+oIn file included from /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/anim.cpp:34:
+oIn file included from /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/Angel.h:69:
+o/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/CheckError.h:42:1: warning: unused function '_CheckError' [-Wunused-function]
+o_CheckError( const char* file, int line )
+o^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/anim.cpp182"CompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/anim.o Flying\ Bee/anim.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler88a115141924b841^9bcbd5141924b841^-464"In file included from /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/anim.cpp:34:In file included from /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/Angel.h:69:/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/CheckError.h:42:1: warning: unused function '_CheckError' [-Wunused-function]_CheckError( const char* file, int line )^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@29"Unused function '_CheckError'-405018900#18446744073709551615#0#2(2@114"In file included from /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/anim.cpp:34:-405018900#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@105"file:///Users/Alex/Documents/School/2013%20Fall/CS%20174A/Homework%201/Flying%20Bee/Flying%20Bee/anim.cpp0000000000000000^33#9#33#9#646#0#21"Apple LLVM 5.0 Notice--2@119"In file included from /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/Angel.h:69:-405018900#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@110"file:///Users/Alex/Documents/School/2013%20Fall/CS%20174A/Homework%201/Flying%20Bee/Flying%20Bee/Angel/Angel.h0000000000000000^68#9#68#9#1970#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@115"file:///Users/Alex/Documents/School/2013%20Fall/CS%20174A/Homework%201/Flying%20Bee/Flying%20Bee/Angel/CheckError.h0000000000000000^41#0#41#0#880#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@105"file:///Users/Alex/Documents/School/2013%20Fall/CS%20174A/Homework%201/Flying%20Bee/Flying%20Bee/anim.cpp0000000000000000^3352"CompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/anim.o Flying\ Bee/anim.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-generated-files.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-own-target-headers.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-all-target-headers.hmap -iquote /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-project-headers.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/DerivedSources/x86_64 -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/DerivedSources -F/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug -MMD -MT dependencies -MF /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/anim.d --serialize-diagnostics /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/anim.dia -c /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/anim.cpp -o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/anim.o36"BF4646B3-AC33-4B89-95D4-05D12069B3D0-
+b4D60ABE8-8769-4458-B785-4067FB11BB94
+
+CCompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/anim.o /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/anim.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s412764942.911565
+e412764946.364368
+r1
+xCompileC
+xBuild/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/anim.o
+x/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/anim.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/anim.cpp
+d/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Ball.h
+d/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/BallAux.h
+d/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/FrameSaver.h
+d/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Timer.h
+d/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Shapes.h
+d/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/tga.h
+d/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/Angel.h
+d/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/vec.h
+d/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/mat.h
+d/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/CheckError.h
+oIn file included from /Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/anim.cpp:34:
+oIn file included from /Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/Angel.h:71:
+o/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/CheckError.h:42:1: warning: unused function '_CheckError' [-Wunused-function]
+o_CheckError( const char* file, int line )
+o^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/anim.cpp182"CompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/anim.o Flying\ Bee/anim.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerff03f00e4b9ab841^f8705d124b9ab841^-488"In file included from /Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/anim.cpp:34:In file included from /Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/Angel.h:71:/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/CheckError.h:42:1: warning: unused function '_CheckError' [-Wunused-function]_CheckError( const char* file, int line )^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@29"Unused function '_CheckError'-412764946#18446744073709551615#0#2(2@122"In file included from /Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/anim.cpp:34:-412764946#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@113"file:///Users/Alex/Documents/School/Archive/2013%20Fall/CS%20174A/Homework%201/Flying%20Bee/Flying%20Bee/anim.cpp0000000000000000^33#9#33#9#646#0#21"Apple LLVM 5.0 Notice--2@127"In file included from /Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/Angel/Angel.h:71:-412764946#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@118"file:///Users/Alex/Documents/School/Archive/2013%20Fall/CS%20174A/Homework%201/Flying%20Bee/Flying%20Bee/Angel/Angel.h0000000000000000^70#9#70#9#2075#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@123"file:///Users/Alex/Documents/School/Archive/2013%20Fall/CS%20174A/Homework%201/Flying%20Bee/Flying%20Bee/Angel/CheckError.h0000000000000000^41#0#41#0#880#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@113"file:///Users/Alex/Documents/School/Archive/2013%20Fall/CS%20174A/Homework%201/Flying%20Bee/Flying%20Bee/anim.cpp0000000000000000^3456"CompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/anim.o Flying\ Bee/anim.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-generated-files.hmap -I/Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-own-target-headers.hmap -I/Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-all-target-headers.hmap -iquote /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-project-headers.hmap -I/Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/DerivedSources/x86_64 -I/Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/DerivedSources -F/Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug -MMD -MT dependencies -MF /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/anim.d --serialize-diagnostics /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/anim.dia -c /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/anim.cpp -o /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/anim.o36"35A491E2-44B0-4A9B-9E93-BC475ABDE945-
+b24F3C2BA-736D-4FA3-BDEA-EB410FAE91F2
+
+CCompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/tga.o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/tga.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s404861896.216778
+e404861896.369115
+r1
+xCompileC
+xBuild/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/tga.o
+x/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/tga.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/tga.cpp
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/tga.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Flying Bee/tga.cpp180"CompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/tga.o Flying\ Bee/tga.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler6ea137c8b321b841^06845ec8b321b841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/Alex/Documents/School/2013%20Fall/CS%20174A/Homework%201/Flying%20Bee/Flying%20Bee/tga.cpp0000000000000000^3346"CompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/tga.o Flying\ Bee/tga.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.8 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-generated-files.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-own-target-headers.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-all-target-headers.hmap -iquote /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Flying\ Bee-project-headers.hmap -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/DerivedSources/x86_64 -I/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/DerivedSources -F/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug -MMD -MT dependencies -MF /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/tga.d --serialize-diagnostics /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/tga.dia -c /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/tga.cpp -o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/tga.o36"E2FCB64E-1506-4E30-A099-626BB4805541-
+b86A96E28-5A73-4FE9-BE6C-FA57D44614E3
+
+CCompileC Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/tga.o /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Flying\ Bee/tga.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CLd /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug/Flying\ Bee normal x86_64
+s405018900.837581
+e405018900.985024
+r1
+xLd
+x/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Products/Debug/Flying Bee
+xnormal
+xx86_64
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/Flying Bee.LinkFileList
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/InitShader.o
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/FrameSaver.o
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/BallMath.o
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/anim.o
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/BallAux.o
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/tga.o
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/Ball.o
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/Timer.o
+d/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/Shapes.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/GLUT
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Link /Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Products/Debug/Flying Bee49"Ld Build/Products/Debug/Flying\ Bee normal x86_64ed81d6141924b841^912cfc141924b841^---0#0#1#--1182"Ld Build/Products/Debug/Flying\ Bee normal x86_64    cd "/Users/Alex/Documents/School/2013 Fall/CS 174A/Homework 1/Flying Bee"    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug -F/Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug -filelist /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Flying\ Bee.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -framework GLUT -framework OpenGL -Xlinker -dependency_info -Xlinker /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Flying\ Bee_dependency_info.dat -o /Users/Alex/Documents/School/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug/Flying\ Bee36"3E47F5C5-968C-4F06-B57D-851DCE2105AC-
+b4D60ABE8-8769-4458-B785-4067FB11BB94
+
+CLd /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug/Flying\ Bee normal x86_64
+s412764946.518509
+e412764951.726273
+r1
+xLd
+x/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Products/Debug/Flying Bee
+xnormal
+xx86_64
+d/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/Flying Bee.LinkFileList
+d/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/InitShader.o
+d/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/FrameSaver.o
+d/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/BallMath.o
+d/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/anim.o
+d/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/BallAux.o
+d/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/tga.o
+d/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/Ball.o
+d/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/Timer.o
+d/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Intermediates/Flying Bee.build/Debug/Flying Bee.build/Objects-normal/x86_64/Shapes.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/GLUT.framework/GLUT
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Link /Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee/Build/Products/Debug/Flying Bee49"Ld Build/Products/Debug/Flying\ Bee normal x86_64ebe484124b9ab841^3df0e5174b9ab841^---0#0#1#--1230"Ld Build/Products/Debug/Flying\ Bee normal x86_64    cd "/Users/Alex/Documents/School/Archive/2013 Fall/CS 174A/Homework 1/Flying Bee"    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug -F/Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug -filelist /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Flying\ Bee.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -framework GLUT -framework OpenGL -Xlinker -dependency_info -Xlinker /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Intermediates/Flying\ Bee.build/Debug/Flying\ Bee.build/Objects-normal/x86_64/Flying\ Bee_dependency_info.dat -o /Users/Alex/Documents/School/Archive/2013\ Fall/CS\ 174A/Homework\ 1/Flying\ Bee/Build/Products/Debug/Flying\ Bee36"91E575C2-E406-47F5-89B5-3C09B7D34F46-
+b24F3C2BA-736D-4FA3-BDEA-EB410FAE91F2
+
